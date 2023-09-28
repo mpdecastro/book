@@ -1,1 +1,2 @@
 Este ejemplo de uso de Logger pretende ejercitar la conversion de proyectos Java a proyectos Maven
+La conversion requiere el uso de Eclipse y el agregado de la version 1.8 de java al build.xml
