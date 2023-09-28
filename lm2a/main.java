@@ -4,6 +4,7 @@ import org.apache.log4j.BasicConfigurator;
 import org.apache.log4j.Logger;
 
 public class Main {
+   /* Logger requiere actualmente BasicConfigurator.configure() */
 
    static Logger log = Logger.getLogger(Main.class.getName());
 
