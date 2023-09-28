@@ -1,0 +1,1 @@
+Este ejemplo de uso de Logger pretende ejercitar la conversion de proyectos Java a proyectos Maven
